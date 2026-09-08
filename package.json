@@ -17,3 +17,11 @@
     "react-dom": "18.2.0"
   }
 }
+
+{
+  "name": "senpro-github-action",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "echo Build successful"
+  }
+}

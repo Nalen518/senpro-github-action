@@ -47,7 +47,7 @@ jobs:
               echo "Repository has not been cloned. Cloning...";
               mkdir -p ~/senpro/536801/modul02;
               cd ~/senpro/536801/modul02;
-              git clone <<FORK_REPOSITORY_LINK>>;
+              git clone https://github.com/Nalen518/senpro-github-action.git;
               cd ~/senpro/536801/modul02/senpro-github-action;
               echo "Install Packages and Build Project";
               npm install;
